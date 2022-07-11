@@ -1,0 +1,16 @@
+.satu {
+        width: 660px;
+        height: 300px;
+        border: 2px solid red;
+        background: url("avocado.jpg")  500px 400px ;
+        overflow: scroll;  
+        color: blue;
+}
+
+.dua {
+    color: green;
+}
+
+.tiga {
+    color:red
+}
